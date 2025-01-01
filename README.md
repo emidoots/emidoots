@@ -1,11 +1,10 @@
-Emi (~~stephen~~) here! I'm building [Mach engine](https://machengine.org) so that anyone can create games, visualizations, and desktop/mobile apps in Zig. The goal is to be competitive in spirit with Godot/Unity/Unreal, but more composable, data-driven & tooling oriented.
+Hey hi, it's Emi - I'm building the [Mach](https://machengine.org) - the Zig game engine & graphics toolkit, principal engineer @ [Sourcegraph](https://sourcegraph.com) working on developer tools, and pianist, gardener, and keeper of kittos ([https://meow.army](https://meow.army)) on the side.
 
-I also work at a startup called Sourcegraph [building developer tools](https://slimsag.com) for the last ~decade. [FOSS is in my roots](https://devlog.hexops.com/2021/increasing-my-contribution-to-zig-to-200-a-month/#i-grew-up-playing-linux-games-like-mania-drive), though, and I dream of creating games and being 100% beholden to individuals. :)
-
-Besides my full-time startup job & working on Mach, I care for a [small army of cats](https://imgur.com/gallery/m6FxZ85) and [came out as trans](https://slimsag.com/about) with the 2024 election results.
+[FOSS is in my roots](https://devlog.hexops.com/2021/increasing-my-contribution-to-zig-to-200-a-month/#i-grew-up-playing-linux-games-like-mania-drive) and I dream of creating games and one day being 100% beholden to individuals. :) 
 
 ### Links
 
-* [Sponsor my work](https://github.com/sponsors/slimsag)
+* [About me / pronouns](https://emidoots.com/about)
+* [Sponsor my work](https://github.com/sponsors/emidoots)
 * [Hexops devlog](https://devlog.hexops.com/)
-* [@slimsag on Twitter](https://twitter.com/slimsag)
+* [@emidoots.com on Bluesky]([https://bsky.app/slimsag](https://bsky.app/profile/emidoots.com))
