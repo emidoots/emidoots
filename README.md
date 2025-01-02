@@ -7,4 +7,4 @@ Hey hi, it's Emi - I'm building [Mach](https://machengine.org) (the Zig game eng
 * [About me / pronouns](https://emidoots.com/about)
 * [Sponsor my work](https://github.com/sponsors/emidoots)
 * [Hexops devlog](https://devlog.hexops.com/)
-* [@emidoots.com on Bluesky]([https://bsky.app/slimsag](https://bsky.app/profile/emidoots.com))
+* [@emidoots.com on Bluesky](https://bsky.app/profile/emidoots.com)
