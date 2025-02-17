@@ -3,7 +3,7 @@ Hey hihi, it's Emi - I'm building [Mach](https://machengine.org) (the Zig game e
 [FOSS is in my roots](https://devlog.hexops.com/2021/increasing-my-contribution-to-zig-to-200-a-month/#i-grew-up-playing-linux-games-like-mania-drive) and I dream of creating games and one day being 100% beholden to individuals. :) 
 
 ### Links
-sss
+
 * [About me / pronouns](https://emidoots.com/about)
 * [Sponsor my work](https://github.com/sponsors/emidoots)
 * [Hexops devlog](https://devlog.hexops.com/)
